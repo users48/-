@@ -1,0 +1,33 @@
+C:\Users\Kirill\OneDrive\Рабочий стол\laba1\laba1\bin\Debug\laba1.exe.config
+C:\Users\Kirill\OneDrive\Рабочий стол\laba1\laba1\bin\Debug\laba1.exe
+C:\Users\Kirill\OneDrive\Рабочий стол\laba1\laba1\bin\Debug\laba1.pdb
+C:\Users\Kirill\OneDrive\Рабочий стол\laba1\laba1\obj\Debug\laba1.csprojAssemblyReference.cache
+C:\Users\Kirill\OneDrive\Рабочий стол\laba1\laba1\obj\Debug\laba1.Form1.resources
+C:\Users\Kirill\OneDrive\Рабочий стол\laba1\laba1\obj\Debug\laba1.Properties.Resources.resources
+C:\Users\Kirill\OneDrive\Рабочий стол\laba1\laba1\obj\Debug\laba1.csproj.GenerateResource.cache
+C:\Users\Kirill\OneDrive\Рабочий стол\laba1\laba1\obj\Debug\laba1.csproj.CoreCompileInputs.cache
+C:\Users\Kirill\OneDrive\Рабочий стол\laba1\laba1\obj\Debug\laba1.exe
+C:\Users\Kirill\OneDrive\Рабочий стол\laba1\laba1\obj\Debug\laba1.pdb
+C:\Users\Kirill\OneDrive\Рабочий стол\laba1\laba1\obj\Debug\laba1.Form2.resources
+C:\Users\student\Desktop\laba1\laba1\bin\Debug\laba1.exe.config
+C:\Users\student\Desktop\laba1\laba1\bin\Debug\laba1.exe
+C:\Users\student\Desktop\laba1\laba1\bin\Debug\laba1.pdb
+C:\Users\student\Desktop\laba1\laba1\obj\Debug\laba1.csprojAssemblyReference.cache
+C:\Users\student\Desktop\laba1\laba1\obj\Debug\laba1.Form1.resources
+C:\Users\student\Desktop\laba1\laba1\obj\Debug\laba1.Form2.resources
+C:\Users\student\Desktop\laba1\laba1\obj\Debug\laba1.Properties.Resources.resources
+C:\Users\student\Desktop\laba1\laba1\obj\Debug\laba1.csproj.GenerateResource.cache
+C:\Users\student\Desktop\laba1\laba1\obj\Debug\laba1.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\laba1\laba1\obj\Debug\laba1.exe
+C:\Users\student\Desktop\laba1\laba1\obj\Debug\laba1.pdb
+C:\Users\Kirill\OneDrive\Рабочий стол\.laba1\laba1\bin\Debug\laba1.exe.config
+C:\Users\Kirill\OneDrive\Рабочий стол\.laba1\laba1\bin\Debug\laba1.exe
+C:\Users\Kirill\OneDrive\Рабочий стол\.laba1\laba1\bin\Debug\laba1.pdb
+C:\Users\Kirill\OneDrive\Рабочий стол\.laba1\laba1\obj\Debug\laba1.csprojAssemblyReference.cache
+C:\Users\Kirill\OneDrive\Рабочий стол\.laba1\laba1\obj\Debug\laba1.Form1.resources
+C:\Users\Kirill\OneDrive\Рабочий стол\.laba1\laba1\obj\Debug\laba1.Form2.resources
+C:\Users\Kirill\OneDrive\Рабочий стол\.laba1\laba1\obj\Debug\laba1.Properties.Resources.resources
+C:\Users\Kirill\OneDrive\Рабочий стол\.laba1\laba1\obj\Debug\laba1.csproj.GenerateResource.cache
+C:\Users\Kirill\OneDrive\Рабочий стол\.laba1\laba1\obj\Debug\laba1.csproj.CoreCompileInputs.cache
+C:\Users\Kirill\OneDrive\Рабочий стол\.laba1\laba1\obj\Debug\laba1.exe
+C:\Users\Kirill\OneDrive\Рабочий стол\.laba1\laba1\obj\Debug\laba1.pdb
